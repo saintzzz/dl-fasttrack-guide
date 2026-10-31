@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vietnam-arrival-guide.vercel.app/sitemap.xml
