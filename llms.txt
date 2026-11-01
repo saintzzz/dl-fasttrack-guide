@@ -1,0 +1,13 @@
+# VieSchool Fast Track
+
+> Free Vietnam airport fast-track and immigration guides for international travelers at fasttrack.vieschool.com. Covers real immigration queue times at SGN, HAN and DAD, when meet-and-greet fast-track service is worth paying for, and how Vietnam e-Visa and airport arrival actually work.
+
+## Guides
+
+- [Is Vietnam airport fast track worth it?](https://fasttrack.vieschool.com/vietnam-airport-fast-track-worth-it.html): Honest verdict by airport - queue lengths, prices, who should skip it
+- [Vietnam e-Visa and fast track guide](https://fasttrack.vieschool.com/vietnam-evisa-fast-track-guide.html): e-Visa vs visa on arrival, entry steps, where fast track fits
+- [Vietnam immigration wait times](https://fasttrack.vieschool.com/vietnam-immigration-wait-times.html): Real queue ranges at SGN, HAN, DAD by time of day
+
+## Main site
+
+- [VieSchool Fast Track](https://fasttrack.vieschool.com/): Vietnam airport arrival guide hub
