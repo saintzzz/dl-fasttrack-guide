@@ -109,6 +109,9 @@ section{padding:76px 0}
 
 /* steps */
 .steps{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;counter-reset:s}
+.scene{margin:36px 0 0;border-radius:18px;overflow:hidden;border:1px solid var(--line)}
+.scene img{display:block;width:100%;height:auto}
+.scene figcaption{background:var(--panel);padding:10px 16px;font-size:.78rem;color:var(--mut)}
 .step{border:1px solid var(--line);border-radius:18px;padding:26px 24px;background:linear-gradient(180deg,var(--panel),transparent)}
 .step::before{counter-increment:s;content:'0' counter(s);font-family:'Fraunces',serif;font-size:2rem;font-weight:800;color:var(--gold);display:block;margin-bottom:12px}
 .step h3{font-size:1.02rem;margin-bottom:8px}
@@ -221,6 +224,10 @@ footer .wrap{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap}
     <div class="step"><h3>Get met at the gate</h3><p>An agent holding your name meets you at the jet bridge and handles any visa-desk paperwork first.</p></div>
     <div class="step"><h3>Walk the priority lane</h3><p>Escorted through the fast lane at immigration - most travelers are curbside in 10-15 minutes.</p></div>
   </div>
+  <figure class="scene">
+    <img src="assets/img/meet-greet-scene.svg" alt="Flat illustration: an agent holds a WELCOME name board for a traveler with a suitcase beside the PRIORITY LANE sign at a Vietnam airport" width="1200" height="675" loading="lazy">
+    <figcaption>Illustration - your agent meets you at the gate with a name board and walks you through priority immigration.</figcaption>
+  </figure>
 </div></section>
 
 <section><div class="wrap">

@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+<title id="t">Fast track meet and greet at a Vietnam airport</title>
+<desc id="d">Flat illustration: a greeter in uniform holds a WELCOME name board for a traveler with a suitcase, next to a PRIORITY LANE sign, inside a dark navy airport terminal with a plane taking off outside the window.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0d1526"/>
+    <stop offset="1" stop-color="#16233d"/>
+  </linearGradient>
+  <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1b2c4a"/>
+    <stop offset="1" stop-color="#101a30"/>
+  </linearGradient>
+  <linearGradient id="board" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff"/>
+    <stop offset="1" stop-color="#e8ecf1"/>
+  </linearGradient>
+</defs>
+
+<!-- backdrop -->
+<rect width="1200" height="675" fill="url(#sky)"/>
+
+<!-- terminal window band with plane -->
+<g opacity=".9">
+  <rect x="70" y="60" width="1060" height="240" rx="14" fill="#0a1120" stroke="#22345a" stroke-width="2"/>
+  <!-- window dividers -->
+  <line x1="330" y1="60" x2="330" y2="300" stroke="#22345a" stroke-width="2"/>
+  <line x1="600" y1="60" x2="600" y2="300" stroke="#22345a" stroke-width="2"/>
+  <line x1="870" y1="60" x2="870" y2="300" stroke="#22345a" stroke-width="2"/>
+  <!-- distant runway lights -->
+  <g fill="#c9a227" opacity=".55">
+    <circle cx="120" cy="270" r="3"/><circle cx="220" cy="270" r="3"/><circle cx="320" cy="270" r="3"/>
+    <circle cx="420" cy="270" r="3"/><circle cx="520" cy="270" r="3"/><circle cx="620" cy="270" r="3"/>
+    <circle cx="720" cy="270" r="3"/><circle cx="820" cy="270" r="3"/><circle cx="920" cy="270" r="3"/><circle cx="1020" cy="270" r="3"/>
+  </g>
+  <!-- plane silhouette taking off -->
+  <g transform="translate(430,150) rotate(-14)" fill="#3b5184">
+    <path d="M-150,10 L120,10 Q160,10 160,-6 Q160,-18 140,-18 L-60,-18 L-110,-58 L-92,-58 L-20,-18 L-150,-18 Q-168,-18 -168,-6 Q-168,10 -150,10 Z"/>
+    <path d="M30,-18 L60,-52 L78,-52 L58,-18 Z"/>
+    <path d="M-10,10 L20,44 L38,44 L18,10 Z"/>
+  </g>
+  <!-- small stars -->
+  <g fill="#5b6f9e" opacity=".7">
+    <circle cx="150" cy="100" r="2"/><circle cx="260" cy="140" r="1.6"/><circle cx="960" cy="90" r="2"/>
+    <circle cx="1060" cy="160" r="1.6"/><circle cx="760" cy="110" r="1.8"/>
+  </g>
+</g>
+
+<!-- floor -->
+<rect x="0" y="470" width="1200" height="205" fill="url(#floor)"/>
+<line x1="0" y1="470" x2="1200" y2="470" stroke="#22345a" stroke-width="2"/>
+
+<!-- background queue silhouettes (muted = the line you skip) -->
+<g opacity=".35" fill="#3b4a6b">
+  <g transform="translate(120,352)"><circle cx="0" cy="0" r="16"/><path d="M-14,20 h28 v66 h-28z" rx="10"/></g>
+  <g transform="translate(190,358)"><circle cx="0" cy="0" r="15"/><path d="M-13,19 h26 v62 h-26z" rx="9"/></g>
+  <g transform="translate(258,352)"><circle cx="0" cy="0" r="16"/><path d="M-14,20 h28 v66 h-28z" rx="10"/></g>
+  <g transform="translate(326,358)"><circle cx="0" cy="0" r="15"/><path d="M-13,19 h26 v62 h-26z" rx="9"/></g>
+</g>
+<!-- queue rope -->
+<g stroke="#3b4a6b" stroke-width="4" opacity=".5">
+  <line x1="100" y1="430" x2="350" y2="430"/>
+  <line x1="100" y1="430" x2="100" y2="470"/>
+  <line x1="350" y1="430" x2="350" y2="470"/>
+</g>
+
+<!-- PRIORITY LANE sign -->
+<g>
+  <rect x="880" y="330" width="230" height="64" rx="10" fill="#c9a227"/>
+  <rect x="880" y="330" width="230" height="64" rx="10" fill="none" stroke="#a8841f" stroke-width="2"/>
+  <text x="995" y="358" text-anchor="middle" font-family="system-ui,Arial" font-size="20" font-weight="800" fill="#12233f" letter-spacing="2">PRIORITY</text>
+  <text x="995" y="382" text-anchor="middle" font-family="system-ui,Arial" font-size="20" font-weight="800" fill="#12233f" letter-spacing="4">LANE →</text>
+  <rect x="988" y="394" width="14" height="76" fill="#22345a"/>
+</g>
+
+<!-- greeter: uniform figure holding name board -->
+<g transform="translate(660,330)">
+  <!-- legs -->
+  <rect x="-16" y="120" width="13" height="90" rx="6" fill="#0a1120"/>
+  <rect x="4" y="120" width="13" height="90" rx="6" fill="#0a1120"/>
+  <!-- body: navy uniform jacket -->
+  <path d="M-24,30 Q-28,10 -12,6 L12,6 Q28,10 24,30 L22,124 L-22,124 Z" fill="#1e3a8a"/>
+  <!-- gold epaulettes + name tag -->
+  <rect x="-18" y="12" width="10" height="4" rx="2" fill="#c9a227"/>
+  <rect x="8" y="12" width="10" height="4" rx="2" fill="#c9a227"/>
+  <rect x="-6" y="40" width="16" height="6" rx="2" fill="#e8ecf1"/>
+  <!-- arm raised holding board -->
+  <path d="M-20,32 L-58,10 L-52,2 L-16,20 Z" fill="#1e3a8a"/>
+  <path d="M22,32 L54,16 L58,24 L26,42 Z" fill="#1e3a8a"/>
+  <!-- head -->
+  <circle cx="0" cy="-8" r="18" fill="#f0c8a0"/>
+  <path d="M-18,-12 A18,18 0 0 1 18,-12 L18,-20 Q0,-32 -18,-20 Z" fill="#1f2937"/>
+  <!-- name board -->
+  <g transform="translate(-88,-66)">
+    <rect x="0" y="0" width="150" height="58" rx="8" fill="url(#board)" stroke="#c9a227" stroke-width="3"/>
+    <text x="75" y="36" text-anchor="middle" font-family="system-ui,Arial" font-size="22" font-weight="800" fill="#12233f" letter-spacing="3">WELCOME</text>
+  </g>
+</g>
+
+<!-- traveler with rolling suitcase -->
+<g transform="translate(845,355)">
+  <!-- suitcase -->
+  <rect x="42" y="94" width="52" height="66" rx="8" fill="#c9a227"/>
+  <rect x="42" y="94" width="52" height="14" rx="7" fill="#a8841f"/>
+  <line x1="68" y1="94" x2="68" y2="60" stroke="#94a3b8" stroke-width="5"/>
+  <rect x="58" y="54" width="20" height="8" rx="4" fill="#94a3b8"/>
+  <circle cx="56" cy="164" r="7" fill="#0a1120"/>
+  <circle cx="82" cy="164" r="7" fill="#0a1120"/>
+  <!-- legs -->
+  <rect x="-12" y="110" width="12" height="80" rx="6" fill="#22345a"/>
+  <rect x="6" y="110" width="12" height="80" rx="6" fill="#22345a"/>
+  <!-- body: teal-ish coat -->
+  <path d="M-20,30 Q-24,12 -10,8 L10,8 Q24,12 20,30 L18,112 L-18,112 Z" fill="#2f5d50"/>
+  <!-- arm to suitcase handle -->
+  <path d="M16,34 L52,58 L48,66 L12,44 Z" fill="#2f5d50"/>
+  <!-- head -->
+  <circle cx="0" cy="-6" r="17" fill="#e8b48c"/>
+  <path d="M-17,-10 A17,17 0 0 1 17,-10 L15,-18 Q0,-28 -15,-18 Z" fill="#4a2c14"/>
+</g>
+
+<!-- spotlight glow on the pair -->
+<ellipse cx="745" cy="560" rx="260" ry="26" fill="#c9a227" opacity=".10"/>
+
+<!-- caption strip -->
+<g>
+  <rect x="70" y="560" width="500" height="70" rx="12" fill="#0a1120" opacity=".85"/>
+  <text x="94" y="590" font-family="system-ui,Arial" font-size="19" font-weight="700" fill="#e8ecf1">Met at the gate. Through in ~15 minutes.</text>
+  <text x="94" y="616" font-family="system-ui,Arial" font-size="14" fill="#94a3b8">Name board, escorted priority lane - gate to curb.</text>
+</g>
+</svg>
