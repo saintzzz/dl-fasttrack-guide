@@ -58,6 +58,11 @@
   th{background:var(--navy);color:#fff;font-weight:700}
   tr:nth-child(even){background:#f1f5f9}
   .cta{display:inline-block;background:var(--gold);color:var(--navy);font-weight:800;text-decoration:none;padding:14px 28px;border-radius:10px;margin-top:14px}
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:26px}
+  .stats .st{background:#fff;border:1px solid #e2e8f0;border-radius:10px;padding:14px 10px;text-align:center}
+  .stats .st b{display:block;font-size:1.15rem;color:var(--navy)}
+  .stats .st span{font-size:.72rem;color:var(--mut);line-height:1.3;display:block;margin-top:2px}
+  @media(max-width:560px){.stats{grid-template-columns:repeat(2,1fr)}}
   .band{background:var(--navy);border-radius:14px;padding:30px;margin-top:40px;color:#fff;text-align:center}
   .band p{color:#cbd5e1;font-size:.92rem}
   .airports{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px;justify-content:center}
@@ -132,12 +137,20 @@
 
 <p style="margin-top:20px">Airport-by-airport verdicts: <a href="/noi-bai-airport-fast-track.html">Noi Bai (HAN)</a> · <a href="/tan-son-nhat-airport-fast-track.html">Tan Son Nhat (SGN)</a> · <a href="/da-nang-airport-fast-track.html">Da Nang (DAD)</a></p>
 
+<div class="stats">
+  <div class="st"><b>~15 min</b><span>gate to curb - operator's average clearance</span></div>
+  <div class="st"><b>&le;2h</b><span>booking confirmation, working hours</span></div>
+  <div class="st"><b>~$33</b><span>from 880,000 VND - lowest arrival price (HAN)</span></div>
+  <div class="st"><b>3</b><span>airports covered: SGN &middot; HAN &middot; DAD</span></div>
+</div>
+
 <div class="band">
   <p>Fast track by airport:</p>
   <div class="airports">
     <a href="https://fasttrack.aal.vn/en/airports/noi-bai?ref=DLDIGITAL&amp;utm_source=dlsite">Noi Bai (HAN)</a>
     <a href="https://fasttrack.aal.vn/en/airports/tan-son-nhat?ref=DLDIGITAL&amp;utm_source=dlsite">Tan Son Nhat (SGN)</a>
     <a href="https://fasttrack.aal.vn/en/airports/da-nang?ref=DLDIGITAL&amp;utm_source=dlsite">Da Nang (DAD)</a>
+    <p style="margin-top:12px;font-size:.82rem;opacity:.75">Prefer to chat first? The operator answers on <a style="color:inherit;font-weight:700" href="https://wa.me/84868001100">WhatsApp</a>/<a style="color:inherit;font-weight:700" href="https://zalo.me/0868001100">Zalo</a>: +84 868 001 100</p>
   </div>
   <a class="cta" href="https://fasttrack.aal.vn/en/booking?ref=DLDIGITAL&amp;utm_source=dlsite">Check fast track prices at AAL →</a>
 </div>
