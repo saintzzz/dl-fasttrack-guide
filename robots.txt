@@ -1,3 +1,25 @@
+# AI search crawlers - explicitly welcome (chatgpt/AI answers drive conversions)
+User-agent: GPTBot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=no
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 User-agent: *
 Allow: /
+Content-Signal: search=yes
+
 Sitemap: https://fasttrack.vieschool.com/sitemap.xml
