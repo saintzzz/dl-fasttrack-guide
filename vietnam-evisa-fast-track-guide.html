@@ -152,6 +152,20 @@
 
   <p style="margin-top:26px">More paperwork guides: <a href="/vietnam-arrival-card.html">Vietnam arrival card - what you actually fill out</a> · <a href="/vietnam-evisa-for-indians.html">Vietnam e-visa for Indian passport holders</a>.</p>
 
+  <div class="band" style="background:#1d2433">
+    <p><strong>Landing soon?</strong> Get the 8-point Vietnam arrival checklist - passport, visa, cash, SIM, queue timing. One email, no spam.</p>
+    <form id="clf" style="display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:8px" onsubmit="return clSubmit(this)">
+      <input type="email" name="email" required placeholder="you@email.com" style="padding:10px 14px;border-radius:8px;border:1px solid #ffffff44;background:#ffffff14;color:#fff;min-width:230px">
+      <button class="cta" style="border:0;cursor:pointer" type="submit">Send me the checklist</button>
+    </form>
+    <p id="clmsg" style="margin-top:8px;font-size:.82rem;opacity:.8"></p>
+  </div>
+  <script>
+  async function clSubmit(f){const m=document.getElementById('clmsg');m.textContent='Sending...';
+  try{const r=await fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:f.email.value})});
+  m.textContent=r.ok?'Check your inbox - the checklist is on its way.':'Something went wrong - try again.';}catch(e){m.textContent='Network error - try again.'}return false}
+  </script>
+
   <div class="band">
     <p>Choose your arrival airport:</p>
     <div class="airports">
