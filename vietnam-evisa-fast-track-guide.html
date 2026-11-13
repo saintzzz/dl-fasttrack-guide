@@ -162,7 +162,9 @@
   </div>
   <script>
   async function clSubmit(f){const m=document.getElementById('clmsg');m.textContent='Sending...';
-  try{const r=await fetch('/api/subscribe',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:f.email.value})});
+  try{const r=await fetch('https://formsubmit.co/ajax/hello@vieschool.com',{method:'POST',headers:{'content-type':'application/json','Accept':'application/json'},
+    body:JSON.stringify({email:f.email.value,_subject:'New checklist subscriber (fasttrack)',_template:'box',_captcha:'false',
+    _autoresponse:'Your Vietnam airport arrival checklist:\n\n1. Passport - 6+ months validity, 2 blank pages\n2. E-visa PRINTED (paper still asked at the border) + QR screenshot\n3. Onward/return ticket - occasionally checked for visa-free entries\n4. First-night hotel address - needed for the arrival declaration\n5. Arrival card - mostly abolished for e-visa; airline may still hand them out\n6. Cash ~500k VND - airport ATMs sit AFTER customs\n7. SIM - counters after baggage work, prices better outside arrivals\n8. Queue timing - midday/evening banks = 30-60+ min at SGN/HAN; meet-and-greet skips it\n\nFlying soon? Queue times: https://fasttrack.vieschool.com/vietnam-immigration-wait-times.html\nBook fast track (pay on meet): https://fasttrack.aal.vn/en/booking?ref=DLDIGITAL&utm_source=checklist-email\n\n- Vietnam Arrival Guide'})});
   m.textContent=r.ok?'Check your inbox - the checklist is on its way.':'Something went wrong - try again.';}catch(e){m.textContent='Network error - try again.'}return false}
   </script>
 
