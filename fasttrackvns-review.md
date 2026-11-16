@@ -8,7 +8,7 @@
 
 | Tier | From | Includes |
 
-| Normal | $35/person | Name-sign meet, visa-on-arrival help, priority lanes where available; departures get check-in + security assist |
+| Normal | $40/person | Name-sign meet, visa-on-arrival help, priority lanes where available; departures get check-in + security assist |
 
 | VIP | $55/person | + baggage belt help, customs escort, handover to driver; departures escorted to gate |
 
@@ -28,19 +28,19 @@ The model: request via form, confirm price and meeting point over WhatsApp or em
 
 - No Hanoi or Da Nang - the two biggest international gateways are missing. Useless for HAN/DAD arrivals.
 
-- Soft commitment both ways - no prepayment also means the provider holds your slot on trust; at peak arrival banks a confirmed prepaid booking is firmer.
+- Soft commitment both ways - no prepayment also means the provider holds your slot on trust; at peak arrival banks a confirmed booking with a published confirmation SLA is firmer.
 
 - Cash-heavy settlement - paying on meet usually means cash or bank transfer on the spot - no card rewards, no easy corporate receipt, no chargeback trail.
 
 ## The verdict
 
-For Cam Ranh or Phu Quoc arrivals where prepaying a stranger feels risky, FastTrackVNS's model is genuinely reassuring. For SGN, HAN or DAD you have providers with instant checkout and firmer confirmation SLAs - and at peak times a prepaid, flight-locked slot beats a soft hold. Compare all eight providers .
+For Cam Ranh or Phu Quoc arrivals where prepaying a stranger feels risky, FastTrackVNS's model is genuinely reassuring. For SGN, HAN or DAD you have providers with instant checkout and firmer confirmation SLAs - and at peak times a booking with a published confirmation SLA beats a soft hold. Compare all eight providers .
 
 ## Booking, price and payment at a glance
 
 | Item | FastTrackVNS | AAL (direct) |
 
-| Published prices | $35 normal, $55 VIP, $185 VIP B | ~$34-43 standard, VIP tiers higher |
+| Published prices | $40 normal, $55 VIP, $185 VIP B | ~$34-43 standard, VIP tiers higher |
 
 | Payment model | Pay-on-meet (WhatsApp confirm, pay in person) | Pay-on-meet - cash (VND/USD), transfer, or card |
 
@@ -54,13 +54,13 @@ FastTrackVNS is the closest model match to AAL - both let you pay on the day ins
 
 **Is FastTrackVNS legit?** — Yes - real meet-and-greet operator at SGN, Cam Ranh, Phu Quoc; the no-prepayment model is its signature.
 
-**How much?** — $35 Normal / $55 VIP / $185 VIP B per person, pay on meet.
+**How much?** — $40 Normal / $55 VIP / $185 VIP B per person, pay on meet.
 
 **Which airports?** — SGN, CXR, PQC only - no Hanoi or Da Nang.
 
-**Pay-on-meet vs prepay?** — Pay-on-meet kills prepayment risk; prepaid card bookings lock your slot and leave a dispute trail. At peak times, confirmed beats soft.
+**Pay-on-meet vs prepay?** — Pay-on-meet kills prepayment risk; AAL confirms directly and you pay your agent on the day. At peak times, confirmed beats soft.
 
-**FastTrackVNS or AAL - which pay-on-meet service?** — Decide by airport first: for Cam Ranh or Phu Quoc only FastTrackVNS covers you of the two; for Hanoi or Da Nang, AAL. At SGN both operate - then compare confirmation speed (AAL publishes a 2-hour SLA) and whether you want a card-payment option on the day.
+**FastTrackVNS or AAL - which pay-on-meet service?** — Decide by airport first: for Cam Ranh or Phu Quoc only FastTrackVNS covers you of the two; for Hanoi or Da Nang, AAL. At SGN both operate - then compare confirmation speed (AAL publishes a 2-hour SLA) and whether the published package and airport fit your trip.
 
 **Does pay-on-meet mean I can just not show up?** — In theory the commitment is soft on both sides, but these operators still assign a named agent to your flight - a no-show wastes a real person’s shift. If plans change, message them to cancel; it keeps the pay-on-meet model viable for everyone.
 

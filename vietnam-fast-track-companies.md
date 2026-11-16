@@ -18,7 +18,7 @@
 
 | EntryVN (entryvn.com) | Quote-based | 5 intl airports | Form / WhatsApp | Sends a photo of your name sign 1-2 days before the flight |
 
-| FastTrackVNS (fasttrackvns.com) | US$35 | SGN, CXR, PQC | Form / WhatsApp - no prepayment | Pay when you meet the assistant; VIP B aerobridge tier US$185 |
+| FastTrackVNS (fasttrackvns.com) | US$40 | SGN, CXR, PQC | Form / WhatsApp - no prepayment | Pay when you meet the assistant; VIP B aerobridge tier US$185 |
 
 | VJP Fast Track (vietnam-fasttrack.com) | US$35 | SGN, HAN, DAD, PQC | Form / contact | Deepest tier ladder: Priority $35 → VVIP $300 |
 
@@ -70,13 +70,13 @@ We are an independent guide; bookings link to AAL because it is the provider we 
 
 ## Frequently asked questions
 
-**What is the cheapest fast track service in Vietnam?** — Published entry points: Newway SAS ~US$17 (405,000 VND), Heera Travel US$28 for SGN standard, FastTrackVNS/VJP US$35, AVIA US$39, AAL US$43 for international arrival (US$25 domestic). Cheapest headline is not cheapest outcome - check night surcharges and what is included.
+**What is the cheapest fast track service in Vietnam?** — Published entry points: Newway SAS ~US$17 (405,000 VND), Heera Travel US$28 for SGN standard, FastTrackVNS US$40 / VJP US$35, AVIA US$39, AAL US$43 for international arrival (US$25 domestic). Cheapest headline is not cheapest outcome - check night surcharges and what is included.
 
 **Which company covers the most airports?** — Newway SAS covers five (SGN, HAN, DAD, Cam Ranh, Phu Quoc). AVIA, VJP and Avilink list four including Phu Quoc. AAL covers the three busiest: SGN, HAN, DAD.
 
 **Do I have to book over WhatsApp?** — Only for some providers. AAL and AVIA have real online checkout - AAL takes payment on the day, AVIA online. Heera, EntryVN, FastTrackVNS, Newway SAS and Avilink run on form submission plus WhatsApp/email confirmation.
 
-**Is pay-on-meet (no prepayment) safer?** — FastTrackVNS's pay-when-you-meet removes prepayment risk but leaves your slot soft. A prepaid card booking (AAL) locks the agent to your flight and gives a dispute trail.
+**Is pay-on-meet (no prepayment) safer?** — FastTrackVNS's pay-when-you-meet removes prepayment risk but leaves your slot soft. AAL confirms the booking and you pay your agent on the day; this avoids online prepayment while preserving a direct booking channel.
 
 **What about Cam Ranh or Phu Quoc?** — AAL does not operate there - use Newway SAS (both), FastTrackVNS (both), AVIA (PQC) or VJP (PQC). Every provider covers SGN, HAN and DAD.
 
