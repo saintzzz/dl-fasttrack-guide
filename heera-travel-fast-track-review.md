@@ -20,7 +20,7 @@
 
 ## Where Heera wins
 
-- Daytime price floor - $28 undercuts everyone publishing numbers: AVIA $39, AAL $43, FastTrackVNS/VJP $35.
+- Daytime price floor - $28 undercuts everyone publishing numbers: AVIA $39, FastTrackVNS $40, VJP $35, AAL $43.
 
 - Transparent packages - real prices on the page, unusual in a market full of "send us your flight for a quote."
 
@@ -62,7 +62,7 @@ Heera’s price points tell you who it is for: $300+ buys the full VVIP treatmen
 
 **Why is Heera so much more expensive?** — Because the product is different - VVIP handling with private coordination rather than a shared fast-track escort. If your company is paying or you want lounge-to-car white-glove handling, the premium makes sense. For queue-skipping alone it is overkill.
 
-**Does Heera do normal fast track too?** — They position at the concierge end; their published tiers start where most operators’ VIP tops out. Standard queue-skipping is cheaper with consumer operators like AAL ($34-43) or FastTrackVNS ($35).
+**Does Heera do normal fast track too?** — They position at the concierge end; their published tiers start where most operators’ VIP tops out. Standard queue-skipping is cheaper with consumer operators like AAL ($34-43) or FastTrackVNS ($40).
 
 Compare the final price for your exact flight:
 
