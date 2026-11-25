@@ -10,7 +10,7 @@
 
 | AAL Fast Track (fasttrack.aal.vn) | US$43 intl / US$25 domestic (SGN) | SGN, HAN, DAD | Full online booking, pay your agent on the day, confirmation within 2 working hours | Real booking engine - instant price, no WhatsApp back-and-forth; VIP B "no-stop" tier |
 
-| AVIA (avia.vn) | US$39 | SGN, HAN, DAD, PQC | Online booking + WhatsApp | Largest direct site (50k+ travelers claimed), bundles transfer + eSIM |
+| AVIA (avia.vn) | US$39 | SGN, HAN, DAD, PQC | Online booking + WhatsApp | Largest direct site (50k+ travelers claimed), bundles transfer + eSIM; 10% off/deal signal observed Nov 23 |
 
 | Heera Travel (heeratravel.com) | US$28 | SGN, HAN | Site form, then advice/payment | Cheapest published standard; US$6 night surcharge 23:00-06:00 |
 
@@ -48,7 +48,7 @@
 
 ### 1. Booking flow - the real dividing line
 
-Only a few providers run a true checkout. AAL and AVIA let you pick a package, see the exact price, pay by card and get a confirmation - AAL commits to confirming within 2 working hours. Most others work like this: you submit a form, someone replies on WhatsApp or email hours later with a quote, you confirm, then pay or pay on meet. That is fine if you book days ahead and enjoy chatting; it is painful at midnight before a 6am flight.
+Only a few providers run a true checkout. AAL and AVIA let you select a package and review its price online. AAL confirms within 2 working hours and you pay your agent on the day; AVIA's checkout terms apply to its bookings. Most others work like this: you submit a form, someone replies on WhatsApp or email hours later with a quote, you confirm, then pay or pay on meet. That is fine if you book days ahead and enjoy chatting; it is painful at midnight before a 6am flight.
 
 ### 2. Airport coverage - check yours first
 

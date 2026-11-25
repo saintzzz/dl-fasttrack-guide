@@ -72,6 +72,6 @@ VJP ranks at the top of some fast-track searches but shows you almost nothing be
 
 SGN, HAN or DAD - book instantly instead of quoting:
 
-Card payment · confirmed within 2 working hours · VIP B no-stop tier available
+Pay your agent on the day · confirmed within 2 working hours · VIP B no-stop tier available
 
 Every booking is confirmed personally within 2 working hours - agent assigned to your flight. No prepayment - pay your agent on the day by cash (VND/USD), transfer, or card

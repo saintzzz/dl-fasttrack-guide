@@ -20,6 +20,8 @@
 
 Beyond fast track, AVIA bundles airport transfers and travel eSIM into the same checkout - a genuinely useful one-cart experience if you need all three.
 
+Latest promotion signal: the November 23 competitor watch recorded a 10% off/deal banner on AVIA's site. Check the live checkout for eligibility, expiry and the final price.
+
 ## Where AVIA is strong
 
 - Real online booking - pick package, see price, pay. No quote-by-WhatsApp dance.
@@ -54,11 +56,11 @@ Full eight-provider table: Vietnam fast track companies compared .
 
 | Payment | Online prepay | Pay your agent on the day - cash (VND/USD), transfer, or card |
 
-| Airports | SGN, HAN, DAD, Phu Quoc, Cam Ranh | SGN, HAN, DAD |
+| Airports | SGN, HAN, DAD, Phu Quoc | SGN, HAN, DAD |
 
 | Tiers | Standard, Priority, VIP, CIP | Priority, VIP, VIP B (no-stop) |
 
-AVIA is one of the few competitors that publishes a full menu with instant checkout - if you land at Phu Quoc or Cam Ranh, where AAL does not operate, it is the natural pick. For SGN/HAN/DAD the honest differences are price (AVIA slightly cheaper at the low tier) versus certainty (AAL’s written 2-hour confirmation SLA and pay-on-meet).
+AVIA is one of the few competitors that publishes a full menu with instant checkout - at Phu Quoc, where AAL does not operate, it is one option; AVIA does not list Cam Ranh. For SGN/HAN/DAD the honest differences are price (AVIA slightly cheaper at the low tier) versus certainty (AAL’s written 2-hour confirmation SLA and pay-on-meet).
 
 ## Frequently asked questions
 
@@ -70,7 +72,7 @@ AVIA is one of the few competitors that publishes a full menu with instant check
 
 **AVIA vs AAL?** — AVIA: cheaper headline, Phu Quoc, bundles. AAL: 2h confirm SLA, transparent multilingual packages, VIP B tier. Compare live prices for your date.
 
-**Does AVIA cover Phu Quoc or Cam Ranh?** — Yes - AVIA lists Phu Quoc and Cam Ranh alongside SGN/HAN/DAD, which is broader coverage than AAL’s three airports. If your arrival is Phu Quoc, AVIA or FastTrackVNS are the realistic options.
+**Does AVIA cover Phu Quoc or Cam Ranh?** — AVIA lists Phu Quoc alongside SGN/HAN/DAD. Its published airport list does not include Cam Ranh; for Nha Trang arrivals check Newway SAS or FastTrackVNS.
 
 **Is AVIA cheaper than AAL?** — At the entry tier, slightly - AVIA advertises immigration fast track from $39/person while AAL’s SGN arrival starts around $43. The gap narrows or flips at VIP tiers; compare both live prices for your exact date and airport before deciding.
 

@@ -40,7 +40,7 @@ The honest math: at peak arrival banks you are buying 30-75 minutes of your firs
 
 - Enter flight number and arrival date - the agent assignment keys off this.
 
-- Pay online, receive confirmation with the meeting instructions.
+- Book online and receive confirmation with the meeting instructions; pay your agent on the day.
 
 - Land, look for your name on the board, walk past the queue.
 
