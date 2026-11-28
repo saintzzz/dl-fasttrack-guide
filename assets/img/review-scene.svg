@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+<title id="t">Service review checklist with rating stars</title>
+<desc id="d">Flat illustration: a clipboard with a checklist - checkmarks and one cross - next to a magnifier and five rating stars, on a dark navy background with gold accents.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0d1526"/>
+    <stop offset="1" stop-color="#16233d"/>
+  </linearGradient>
+  <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1b2c4a"/>
+    <stop offset="1" stop-color="#101a30"/>
+  </linearGradient>
+  <linearGradient id="board" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff"/>
+    <stop offset="1" stop-color="#e8ecf1"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<rect y="500" width="1200" height="175" fill="url(#floor)"/>
+<!-- clipboard -->
+<g transform="translate(300,90) rotate(-3)">
+  <rect width="380" height="480" rx="18" fill="#12233f" stroke="#c9a227" stroke-width="3"/>
+  <rect x="30" y="34" width="320" height="412" rx="10" fill="url(#board)"/>
+  <rect x="140" y="12" width="100" height="34" rx="14" fill="#c9a227"/>
+  <!-- checklist rows -->
+  <g font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600" fill="#12233f">
+    <rect x="52" y="70" width="30" height="30" rx="6" fill="none" stroke="#12233f" stroke-width="3"/>
+    <path d="M56 86 l7 8 l15 -18" stroke="#2f9e5f" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <text x="100" y="93">Meet at gate</text>
+    <rect x="52" y="126" width="30" height="30" rx="6" fill="none" stroke="#12233f" stroke-width="3"/>
+    <path d="M56 142 l7 8 l15 -18" stroke="#2f9e5f" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <text x="100" y="149">Priority lane</text>
+    <rect x="52" y="182" width="30" height="30" rx="6" fill="none" stroke="#12233f" stroke-width="3"/>
+    <path d="M56 198 l7 8 l15 -18" stroke="#2f9e5f" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <text x="100" y="205">Visa paperwork</text>
+    <rect x="52" y="238" width="30" height="30" rx="6" fill="none" stroke="#12233f" stroke-width="3"/>
+    <path d="M58 244 l18 18 M76 244 l-18 18" stroke="#c04545" stroke-width="5" stroke-linecap="round"/>
+    <text x="100" y="261">Lounge access</text>
+    <rect x="52" y="294" width="30" height="30" rx="6" fill="none" stroke="#12233f" stroke-width="3" opacity=".5"/>
+    <text x="100" y="317" opacity=".6">Buggy transfer</text>
+    <!-- verdict lines -->
+    <rect x="52" y="352" width="240" height="12" rx="6" fill="#d5dae3"/>
+    <rect x="52" y="380" width="180" height="12" rx="6" fill="#d5dae3"/>
+    <rect x="52" y="408" width="210" height="12" rx="6" fill="#d5dae3"/>
+  </g>
+</g>
+<!-- five stars -->
+<g transform="translate(770,180)">
+  <g fill="#c9a227">
+    <path d="M30 0 l9 26 h28 l-22 18 l8 27 l-23 -16 l-23 16 l8 -27 l-22 -18 h28 Z"/>
+    <path d="M130 0 l9 26 h28 l-22 18 l8 27 l-23 -16 l-23 16 l8 -27 l-22 -18 h28 Z"/>
+    <path d="M230 0 l9 26 h28 l-22 18 l8 27 l-23 -16 l-23 16 l8 -27 l-22 -18 h28 Z"/>
+    <path d="M330 0 l9 26 h28 l-22 18 l8 27 l-23 -16 l-23 16 l8 -27 l-22 -18 h28 Z"/>
+  </g>
+  <path d="M430 0 l9 26 h28 l-22 18 l8 27 l-23 -16 l-23 16 l8 -27 l-22 -18 h28 Z" fill="#2a3d63" stroke="#c9a227" stroke-width="2"/>
+</g>
+<!-- magnifier -->
+<g transform="translate(830,340)">
+  <circle r="90" fill="#0a1120" opacity=".5" stroke="#c9a227" stroke-width="8"/>
+  <line x1="64" y1="64" x2="140" y2="140" stroke="#c9a227" stroke-width="14" stroke-linecap="round"/>
+  <!-- enlarged check inside lens -->
+  <path d="M-40 0 l26 28 l50 -58" stroke="#7ee2a8" stroke-width="14" fill="none" stroke-linecap="round"/>
+</g>
+<!-- floating verdict chips -->
+<g font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">
+  <rect x="740" y="520" width="150" height="42" rx="21" fill="#12233f" stroke="#2f9e5f" stroke-width="2"/>
+  <text x="815" y="547" fill="#7ee2a8" text-anchor="middle">VERIFIED</text>
+  <rect x="910" y="520" width="150" height="42" rx="21" fill="#12233f" stroke="#22345a" stroke-width="2"/>
+  <text x="985" y="547" fill="#e8ecf1" text-anchor="middle" opacity=".8">HONEST</text>
+</g>
+</svg>

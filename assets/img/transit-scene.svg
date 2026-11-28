@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+<title id="t">Terminal transfer at a Vietnam airport</title>
+<desc id="d">Flat illustration: a traveler with a rolling suitcase walks between T1 and T2 terminal signs inside a dark navy airport, following a gold direction arrow.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0d1526"/>
+    <stop offset="1" stop-color="#16233d"/>
+  </linearGradient>
+  <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1b2c4a"/>
+    <stop offset="1" stop-color="#101a30"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<rect y="440" width="1200" height="235" fill="url(#floor)"/>
+<!-- overhead terminal signs -->
+<g>
+  <rect x="150" y="90" width="260" height="80" rx="10" fill="#12233f" stroke="#22345a" stroke-width="2"/>
+  <text x="280" y="143" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="700" fill="#e8ecf1" text-anchor="middle">T1</text>
+  <rect x="790" y="90" width="260" height="80" rx="10" fill="#12233f" stroke="#22345a" stroke-width="2"/>
+  <text x="920" y="143" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="700" fill="#e8ecf1" text-anchor="middle">T2</text>
+  <!-- connector arrows -->
+  <g fill="#c9a227">
+    <path d="M450 118 L540 118 L540 102 L590 130 L540 158 L540 142 L450 142 Z"/>
+    <path d="M750 118 L660 118 L660 102 L610 130 L660 158 L660 142 L750 142 Z" opacity=".55"/>
+  </g>
+</g>
+<!-- floor direction arrow -->
+<g fill="#c9a227" opacity=".85">
+  <path d="M240 560 L760 560 L760 540 L830 578 L760 616 L760 596 L240 596 Z"/>
+</g>
+<!-- traveler with rolling suitcase -->
+<g transform="translate(520,330)">
+  <circle cx="0" cy="0" r="26" fill="#c9a227"/>
+  <rect x="-34" y="30" width="68" height="104" rx="26" fill="#2a3d63"/>
+  <!-- suitcase -->
+  <g transform="translate(70,80)">
+    <rect x="0" y="0" width="58" height="80" rx="10" fill="#12233f" stroke="#c9a227" stroke-width="3"/>
+    <rect x="18" y="-24" width="22" height="24" rx="6" fill="none" stroke="#c9a227" stroke-width="4"/>
+    <circle cx="14" cy="86" r="7" fill="#22345a"/>
+    <circle cx="44" cy="86" r="7" fill="#22345a"/>
+  </g>
+</g>
+<!-- distant plane taking off -->
+<g fill="#2a3d63" transform="translate(140,220)" opacity=".8">
+  <path d="M0 60 L70 60 L110 30 L120 30 L95 60 L160 60 L160 68 L95 68 L120 98 L110 98 L70 68 L0 68 Z"/>
+</g>
+<!-- small plane parked -->
+<g fill="#22345a" transform="translate(950,230)" opacity=".8">
+  <path d="M0 40 L50 40 L75 20 L82 20 L65 40 L100 40 L100 46 L65 46 L82 66 L75 66 L50 46 L0 46 Z"/>
+</g>
+<!-- wayfinding dots -->
+<g fill="#c9a227" opacity=".35">
+  <circle cx="330" cy="420" r="5"/><circle cx="460" cy="420" r="5"/><circle cx="600" cy="420" r="5"/><circle cx="740" cy="420" r="5"/><circle cx="870" cy="420" r="5"/>
+</g>
+</svg>

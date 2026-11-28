@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+<title id="t">Vietnam e-visa approval letter and passport</title>
+<desc id="d">Flat illustration: a passport next to a printed e-visa approval letter stamped APPROVED, with a laptop edge showing the e-visa portal - dark navy background, gold accents.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0d1526"/>
+    <stop offset="1" stop-color="#16233d"/>
+  </linearGradient>
+  <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1b2c4a"/>
+    <stop offset="1" stop-color="#101a30"/>
+  </linearGradient>
+  <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff"/>
+    <stop offset="1" stop-color="#eef1f6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<rect y="480" width="1200" height="195" fill="url(#floor)"/>
+<!-- laptop showing e-visa portal -->
+<g transform="translate(700,140)">
+  <rect x="0" y="0" width="360" height="230" rx="12" fill="#0a1120" stroke="#22345a" stroke-width="3"/>
+  <rect x="18" y="18" width="324" height="170" rx="8" fill="#12233f"/>
+  <text x="180" y="58" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#e8ecf1" text-anchor="middle">e-Visa Portal</text>
+  <rect x="44" y="80" width="270" height="14" rx="7" fill="#22345a"/>
+  <rect x="44" y="106" width="200" height="14" rx="7" fill="#22345a" opacity=".7"/>
+  <rect x="44" y="144" width="130" height="30" rx="15" fill="#c9a227"/>
+  <text x="109" y="165" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#12233f" text-anchor="middle">APPLY</text>
+  <rect x="-20" y="230" width="400" height="16" rx="8" fill="#22345a"/>
+</g>
+<!-- e-visa letter -->
+<g transform="translate(240,120) rotate(-4)">
+  <rect width="330" height="430" rx="10" fill="url(#paper)" stroke="#c9a227" stroke-width="3"/>
+  <text x="165" y="50" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="800" fill="#12233f" text-anchor="middle" letter-spacing="2">VIETNAM E-VISA</text>
+  <line x1="30" y1="66" x2="300" y2="66" stroke="#c9a227" stroke-width="2"/>
+  <!-- photo box -->
+  <rect x="30" y="86" width="80" height="100" rx="6" fill="#d5dae3"/>
+  <circle cx="70" cy="122" r="18" fill="#12233f" opacity=".5"/>
+  <rect x="52" y="142" width="36" height="34" rx="12" fill="#12233f" opacity=".5"/>
+  <!-- text lines -->
+  <rect x="126" y="92" width="170" height="12" rx="6" fill="#d5dae3"/>
+  <rect x="126" y="116" width="140" height="12" rx="6" fill="#d5dae3"/>
+  <rect x="126" y="140" width="160" height="12" rx="6" fill="#d5dae3"/>
+  <rect x="126" y="164" width="110" height="12" rx="6" fill="#d5dae3"/>
+  <rect x="30" y="210" width="270" height="10" rx="5" fill="#e4e8ef"/>
+  <rect x="30" y="232" width="270" height="10" rx="5" fill="#e4e8ef"/>
+  <rect x="30" y="254" width="200" height="10" rx="5" fill="#e4e8ef"/>
+  <rect x="30" y="290" width="270" height="10" rx="5" fill="#e4e8ef"/>
+  <rect x="30" y="312" width="230" height="10" rx="5" fill="#e4e8ef"/>
+  <!-- APPROVED stamp -->
+  <g transform="translate(165,368) rotate(-8)">
+    <rect x="-95" y="-26" width="190" height="52" rx="8" fill="none" stroke="#c04545" stroke-width="4"/>
+    <text x="0" y="9" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="800" fill="#c04545" text-anchor="middle" letter-spacing="3">APPROVED</text>
+  </g>
+  <!-- QR corner -->
+  <g fill="#12233f">
+    <rect x="256" y="352" width="52" height="52" rx="4" fill="none" stroke="#12233f" stroke-width="2"/>
+    <rect x="264" y="360" width="12" height="12"/><rect x="284" y="360" width="12" height="12"/>
+    <rect x="264" y="380" width="12" height="12"/><rect x="284" y="380" width="12" height="12"/>
+  </g>
+</g>
+<!-- passport -->
+<g transform="translate(620,400) rotate(6)">
+  <rect width="190" height="140" rx="12" fill="#12233f" stroke="#c9a227" stroke-width="3"/>
+  <text x="95" y="44" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#c9a227" text-anchor="middle" letter-spacing="3">PASSPORT</text>
+  <circle cx="95" cy="86" r="26" fill="none" stroke="#c9a227" stroke-width="2"/>
+  <path d="M95 66 a20 20 0 0 1 0 40 M75 86 h40 M80 72 q15 14 30 0 M80 100 q15 -14 30 0" stroke="#c9a227" stroke-width="2" fill="none"/>
+</g>
+</svg>

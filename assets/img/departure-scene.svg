@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+<title id="t">Airport departure check-in and departures board</title>
+<desc id="d">Flat illustration: a check-in counter with an agent below a departures board listing flights, a traveler with a suitcase waiting - dark navy terminal, gold accents.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0d1526"/>
+    <stop offset="1" stop-color="#16233d"/>
+  </linearGradient>
+  <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1b2c4a"/>
+    <stop offset="1" stop-color="#101a30"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="675" fill="url(#sky)"/>
+<rect y="440" width="1200" height="235" fill="url(#floor)"/>
+<!-- departures board -->
+<g transform="translate(330,80)">
+  <rect width="540" height="230" rx="12" fill="#0a1120" stroke="#22345a" stroke-width="2"/>
+  <text x="270" y="42" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#c9a227" text-anchor="middle" letter-spacing="4">DEPARTURES</text>
+  <g font-family="Courier,monospace" font-size="19" fill="#e8ecf1">
+    <text x="30" y="86">VN214  HAN  14:35</text><text x="420" y="86" fill="#7ee2a8">ON TIME</text>
+    <text x="30" y="126">QH152  DAD  15:10</text><text x="420" y="126" fill="#7ee2a8">ON TIME</text>
+    <text x="30" y="166">VJ806  SGN  15:40</text><text x="420" y="166" fill="#f0b35e">BOARDING</text>
+    <text x="30" y="206">VN596  PQC  16:05</text><text x="420" y="206" fill="#e8ecf1" opacity=".7">SCHED</text>
+  </g>
+  <line x1="20" y1="58" x2="520" y2="58" stroke="#22345a" stroke-width="2"/>
+</g>
+<!-- check-in counter -->
+<g transform="translate(180,360)">
+  <rect width="380" height="150" rx="14" fill="#12233f" stroke="#22345a" stroke-width="2"/>
+  <rect x="0" y="0" width="380" height="34" rx="14" fill="#c9a227"/>
+  <text x="190" y="24" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#12233f" text-anchor="middle" letter-spacing="3">CHECK-IN</text>
+  <!-- agent -->
+  <circle cx="80" cy="66" r="18" fill="#c9a227"/>
+  <rect x="58" y="86" width="44" height="50" rx="14" fill="#2a3d63"/>
+  <!-- counter slots -->
+  <rect x="150" y="60" width="200" height="12" rx="6" fill="#22345a"/>
+  <rect x="150" y="86" width="150" height="12" rx="6" fill="#22345a" opacity=".7"/>
+</g>
+<!-- traveler with suitcase -->
+<g transform="translate(720,380)">
+  <circle cx="0" cy="0" r="24" fill="#c9a227"/>
+  <rect x="-30" y="28" width="60" height="110" rx="24" fill="#2a3d63"/>
+  <g transform="translate(64,80)">
+    <rect x="0" y="0" width="54" height="74" rx="10" fill="#12233f" stroke="#c9a227" stroke-width="3"/>
+    <rect x="16" y="-22" width="22" height="22" rx="6" fill="none" stroke="#c9a227" stroke-width="4"/>
+    <circle cx="13" cy="80" r="7" fill="#22345a"/>
+    <circle cx="41" cy="80" r="7" fill="#22345a"/>
+  </g>
+</g>
+<!-- second traveler -->
+<g transform="translate(960,400)">
+  <circle cx="0" cy="0" r="22" fill="#d9b64a"/>
+  <rect x="-28" y="26" width="56" height="100" rx="22" fill="#22345a"/>
+  <rect x="34" y="70" width="30" height="44" rx="6" fill="#12233f" stroke="#c9a227" stroke-width="2"/>
+</g>
+</svg>
