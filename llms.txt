@@ -66,3 +66,7 @@
 - [岘港机场快速通关 (DAD)](https://fasttrack.vieschool.com/zh-da-nang-airport.html): Da Nang arrival fast track, in Simplified Chinese
 - [越南机场转机攻略:国际转国内 (SGN/HAN)](https://fasttrack.vieschool.com/zh-transit-guide.html): international-to-domestic transfer minimum times, in Simplified Chinese
 - [春节越南机场入境:高峰期快速通关攻略](https://fasttrack.vieschool.com/zh-chunjie-peak.html): Lunar New Year peak arrivals playbook, in Simplified Chinese
+- [越南电子签证申请攻略](https://fasttrack.vieschool.com/zh-evisa-guide.html): Vietnam e-visa application for Chinese passport holders - fees, timing, pitfalls, in Simplified Chinese
+- [越南机场入境要排多久?三大机场排队实况](https://fasttrack.vieschool.com/zh-wait-times.html): honest immigration wait times by airport/hour/season, in Simplified Chinese
+- [带老人小孩飞越南:机场环节怎么走](https://fasttrack.vieschool.com/zh-families-elderly.html): family/elderly arrival playbook - strollers, wheelchairs, group fast track, in Simplified Chinese
+- [越南机场出境也排队:离境快速通关攻略](https://fasttrack.vieschool.com/zh-departure-fast-track.html): departure-side queues (check-in/security/exit immigration) and fast track, in Simplified Chinese
